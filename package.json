@@ -1,0 +1,24 @@
+{
+  "name": "gitbootstrap",
+  "version": "1.0.0",
+  "description": "This is a test irectory to learn git and node",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",    
+    "test": "<!DOCTYPE html>",
+    "lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chetna1794/GitTest.git"
+  },
+  "author": "Chetna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chetna1794/GitTest/issues"
+  },
+  "homepage": "https://github.com/Chetna1794/GitTest#readme",
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
